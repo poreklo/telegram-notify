@@ -1,5 +1,9 @@
-**Telegram**
+**Telegram-notify**
 
-These scripts are used to send Telegram messages from a Debian server.
+This _bash_ script sends a message via [telegram messenger](https://telegram.org/)
 
-Usage information is available at http://bernaerts.dyndns.org/linux/75-debian/351-debian-send-telegram-notification
+```
+Repository was forked from https://github.com/NicolasBernaerts/debian-scripts
+```
+
+> Usage information is available at http://bernaerts.dyndns.org/linux/75-debian/351-debian-send-telegram-notification
